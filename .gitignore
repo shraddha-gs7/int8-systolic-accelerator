@@ -1,0 +1,12 @@
+# Simulation output
+sim_build/
+results.xml
+*.vcd
+*.fst
+__pycache__/
+
+# LibreLane runs (large)
+runs/
+
+# macOS
+.DS_Store
